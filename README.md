@@ -1,1 +1,1 @@
-# rs-ans-rgs
+# roboshop-ansible
